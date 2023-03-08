@@ -21,9 +21,9 @@
 레이아웃
  Home plan board FAQ My page
  Home - 간단한 웹사이트 소개
- plan - 지금 모집하거나 모집이 완료되어 있는 프로젝트
- board - 완성된 프로젝트 보여줌 (공개/비공개 설정)
- Mypage - 자신의 능력 저장 및 가입되어 있는 프로젝트 표시 등
+	plan - 지금 모집하거나 모집이 완료되어 있는 프로젝트
+	board - 완성된 프로젝트 보여줌 (공개/비공개 설정)
+	Mypage - 자신의 능력 저장 및 가입되어 있는 프로젝트 표시 등
 
 [home layout]
 <img width="1389" alt="image" src="https://user-images.githubusercontent.com/88300899/223646537-9966338a-ddee-452c-aea1-d05fe058291b.png">
